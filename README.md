@@ -12,6 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-le%C3%B3n-fern%C3%A1ndez-270123270/)  
 
 ## 📊 GitHub Analytics
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguellefer&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguellefer&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguellefer&theme=radical)  
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migueleonfer27&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueleonfer27&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Migueleonfer27&theme=radical)  
