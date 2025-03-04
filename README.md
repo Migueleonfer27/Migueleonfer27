@@ -13,4 +13,4 @@
 
 ## 📊 GitHub Analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueleonfer27&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Migueleonfer27&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=miguellefer&theme=radical)
