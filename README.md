@@ -33,9 +33,12 @@
 
 ## 📊 GitHub Analytics  
 
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migueleonfer27&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueleonfer27&layout=compact&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Migueleonfer27&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Migueleonfer27&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migueleonfer27&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</div>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Migueleonfer27&theme=radical)
 
 ---
 
